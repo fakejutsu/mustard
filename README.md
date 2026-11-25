@@ -10,7 +10,9 @@ Use this framework when choosing a software product, library, architectural appr
 
 > This version offers a practical heuristic for making a choice more quickly. It simplifies the comparison and makes no claim to scientific validity. If you think a threshold should change, [propose a new value in this repository](#contributing) and explain why.
 
-[View the comparison flowchart (PDF)](img/Flowchart.drawio.pdf)
+![MUSTARD comparison flowchart](img/Flowchart.drawio.png)
+
+[PDF version](img/Flowchart.drawio.pdf)
 
 ## 2. Prepare the comparison
 
